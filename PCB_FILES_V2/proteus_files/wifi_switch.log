@@ -1,0 +1,14 @@
+# Writing all output to: C:\Users\heman\Documents\GrabCAD\wifi_switch\PCB_FILES_V2\proteus_files\wifi_switch.log
+set pad_wire_necking on
+bus diagonal
+fanout 10
+route 70
+clean 5
+route 70 16
+clean 5
+route 70 16
+clean 5
+filter 10
+recorner diagonal
+status_file
+

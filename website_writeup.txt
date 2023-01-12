@@ -1,0 +1,11 @@
+- Control upto 4 devices.
+- Control from anywhere in the world.
+- Saparate 5V adapter facility with DC Jack.
+- Configure to connect upto two WiFi hotspot.
+- Compact size to fit in all the switch boards.
+- Stylish design for mounting externally.
+- Transparent design to easyliy diagnose the problem.
+- Box is easyly openable for easy repairability.
+- All the components are easyly available in the market.
+- Ultra fast response time of 0.1 second.
+- Control from multiple mobile devices.

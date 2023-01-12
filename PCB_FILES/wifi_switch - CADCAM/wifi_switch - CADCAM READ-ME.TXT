@@ -1,0 +1,132 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'wifi_switch.pdsprj'.
+CADCAM generated at 02:24:34 on 12 July 2022.
+
+File List
+---------
+Top Copper              : wifi_switch - CADCAM Top Copper.GBR
+Inner  1                : wifi_switch - CADCAM Inner  1.GBR
+Inner  2                : wifi_switch - CADCAM Inner  2.GBR
+Inner  3                : wifi_switch - CADCAM Inner  3.GBR
+Inner  4                : wifi_switch - CADCAM Inner  4.GBR
+Inner  5                : wifi_switch - CADCAM Inner  5.GBR
+Inner  6                : wifi_switch - CADCAM Inner  6.GBR
+Inner  7                : wifi_switch - CADCAM Inner  7.GBR
+Inner  8                : wifi_switch - CADCAM Inner  8.GBR
+Inner  9                : wifi_switch - CADCAM Inner  9.GBR
+Inner 10                : wifi_switch - CADCAM Inner 10.GBR
+Inner 11                : wifi_switch - CADCAM Inner 11.GBR
+Inner 12                : wifi_switch - CADCAM Inner 12.GBR
+Inner 13                : wifi_switch - CADCAM Inner 13.GBR
+Inner 14                : wifi_switch - CADCAM Inner 14.GBR
+Bottom Copper           : wifi_switch - CADCAM Bottom Copper.GBR
+Top Silk Screen         : wifi_switch - CADCAM Top Silk Screen.GBR
+Bottom Silk Screen      : wifi_switch - CADCAM Bottom Silk Screen.GBR
+Top Solder Resist       : wifi_switch - CADCAM Top Solder Resist.GBR
+Bottom Solder Resist    : wifi_switch - CADCAM Bottom Solder Resist.GBR
+Top SMT Paste           : wifi_switch - CADCAM Top SMT Paste.GBR
+Bottom SMT Paste        : wifi_switch - CADCAM Bottom SMT Paste.GBR
+Mechanical 1            : wifi_switch - CADCAM Mechanical 1.GBR
+Mechanical 2            : wifi_switch - CADCAM Mechanical 2.GBR
+Mechanical 3            : wifi_switch - CADCAM Mechanical 3.GBR
+Mechanical 4            : wifi_switch - CADCAM Mechanical 4.GBR
+Top Assembly            : wifi_switch - CADCAM Top Assembly.GBR
+Bottom Assembly         : wifi_switch - CADCAM Bottom Assembly.GBR
+Drill, Plated, 1-16     : wifi_switch - CADCAM Drill TOP-BOT Plated.GBR
+Netlist                 : wifi_switch - CADCAM Netlist.IPC
+
+Photoplotter Setup
+------------------
+Format: X2, ASCII, 4.3, metric, absolute, eob=*, LZO
+Bounds: -52.5mm -32.5mm 18mm 39.5mm
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer, I=Index
+
+D10	CIRCLE  D=0.254mm                                                         DRAW  Conductor
+D11	CIRCLE  D=0.762mm                                                         FLASH ViaPad
+D12	CIRCLE  D=3.048mm                                                         FLASH ComponentPad
+D13	RECT    W=3mm                 H=1mm                                       FLASH SMDPad,CuDef
+D14	RECT    W=1mm                 H=3mm                                       FLASH SMDPad,CuDef
+D15	RECT    W=2.692mm             H=1.194mm                                   FLASH SMDPad,CuDef
+D16	RECT    W=1.194mm             H=2.692mm                                   FLASH SMDPad,CuDef
+D17	SQUARE  S=1.27mm                                                          FLASH ComponentPad
+D18	CIRCLE  D=1.27mm                                                          FLASH ComponentPad
+D19	CIRCLE  D=2.54mm                                                          FLASH ComponentPad
+D70	SQUARE  S=2.032mm                                                         FLASH ComponentPad
+D71	CIRCLE  D=4.6mm                                                           FLASH ComponentPad
+D20	CIRCLE  D=5.36mm                                                          FLASH ComponentPad
+D21	PPAD    W=1.04mm              H=2.08mm              I=0                   FLASH ComponentPad
+D22	RECT    W=1.6mm               H=1.8mm                                     FLASH SMDPad,CuDef
+D23	CIRCLE  D=4.5mm                                                           FLASH OtherPad,Unknown
+D24	CIRCLE  D=0.203mm                                                         DRAW  Profile
+D25	CIRCLE  D=0.203mm                                                         DRAW  Material
+D26	CIRCLE  D=0.2mm                                                           DRAW  Material
+D27	CIRCLE  D=0.127mm                                                         DRAW  Material
+D28	CIRCLE  D=0.025mm                                                         DRAW  Material
+D29	CIRCLE  D=0.032mm                                                         DRAW  Material
+D72	CIRCLE  D=1.016mm                                                         FLASH Material
+D73	CIRCLE  D=3.302mm                                                         FLASH Material
+D30	PPAD    W=3.254mm             H=1.254mm             I=1                   FLASH Material
+D31	PPAD    W=1.254mm             H=3.254mm             I=2                   FLASH Material
+D32	PPAD    W=2.692mm             H=1.194mm             I=3                   FLASH Material
+D33	PPAD    W=1.194mm             H=2.692mm             I=4                   FLASH Material
+D34	PPAD    W=1.524mm             H=1.524mm             I=5                   FLASH Material
+D35	CIRCLE  D=1.524mm                                                         FLASH Material
+D36	CIRCLE  D=2.794mm                                                         FLASH Material
+D37	PPAD    W=2.286mm             H=2.286mm             I=6                   FLASH Material
+D38	CIRCLE  D=4.6mm                                                           FLASH Material
+D39	CIRCLE  D=5.36mm                                                          FLASH Material
+D40	PPAD    W=1.04mm              H=2.08mm              I=0                   FLASH Material
+D41	PPAD    W=1.6mm               H=1.8mm               I=7                   FLASH Material
+D42	PPAD    W=2.286mm             H=2.286mm             I=8                   FLASH Material
+D43	RECT    W=3mm                 H=1mm                                       FLASH Material
+D44	RECT    W=1mm                 H=3mm                                       FLASH Material
+D45	RECT    W=2.692mm             H=1.194mm                                   FLASH Material
+D46	RECT    W=1.194mm             H=2.692mm                                   FLASH Material
+D47	RECT    W=1.6mm               H=1.8mm                                     FLASH Material
+D48	CIRCLE  D=1.219mm                                                         DRAW  Material
+D49	CIRCLE  D=0.462mm                                                         DRAW  Material
+D50	CIRCLE  D=0.9mm                                                           DRAW  Material
+D51	CIRCLE  D=0.696mm                                                         DRAW  Material
+D52	CIRCLE  D=0.05mm                                                          DRAW  Material
+D53	CIRCLE  D=1.074mm                                                         DRAW  Material
+D54	CIRCLE  D=0.161mm                                                         DRAW  Material
+D55	CIRCLE  D=0.508mm                                                         DRAW  Material
+D56	CIRCLE  D=0.26mm                                                          DRAW  Material
+D57	CIRCLE  D=0.09mm                                                          DRAW  Material
+D58	CIRCLE  D=0.122mm                                                         DRAW  Material
+D59	CIRCLE  D=0.599mm                                                         DRAW  Material
+D60	CIRCLE  D=0.813mm                                                         DRAW  Material
+D61	CIRCLE  D=0.049mm                                                         DRAW  Material
+D62	CIRCLE  D=1.84mm                                                          DRAW  Material
+D63	CIRCLE  D=0.49mm                                                          DRAW  Material
+D64	CIRCLE  D=0.11mm                                                          DRAW  Material
+D65	CIRCLE  D=0.832mm                                                         DRAW  Material
+D66	CIRCLE  D=0.143mm                                                         DRAW  Material
+D67	CIRCLE  D=0.051mm                                                         DRAW  Material
+D68	CIRCLE  D=0.72mm                                                          DRAW  Material
+D69	CIRCLE  D=0.111mm                                                         DRAW  Material
+D74	CIRCLE  D=0.178mm                                                         DRAW  Material
+D75	CIRCLE  D=0.066mm                                                         DRAW  Material
+D76	CIRCLE  D=0.381mm                                                         FLASH ViaDrill
+D77	CIRCLE  D=1.524mm                                                         FLASH ComponentDrill
+D78	CIRCLE  D=0.762mm                                                         FLASH ComponentDrill
+D79	CIRCLE  D=1.016mm                                                         FLASH ComponentDrill
+D80	CIRCLE  D=3.05mm                                                          FLASH ComponentDrill
+D81	CIRCLE  D=3.56mm                                                          FLASH ComponentDrill
+D82	CIRCLE  D=0.838mm                                                         FLASH ComponentDrill
+D83	CIRCLE  D=3.2mm                                                           FLASH OtherDrill,Unknown
+
+Layer Stackup
+-------------
+Top Solder Resist        : 0.01mm     Resist
+Top Copper               : 0.018mm    Copper
+Core                     : 1.55mm     FR4
+Bottom Copper            : 0.018mm    Copper
+Bottom Solder Resist     : 0.01mm     Resist
+
+
+[END OF FILE]
