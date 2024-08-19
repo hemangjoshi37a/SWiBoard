@@ -10,6 +10,11 @@ The SWiBoard is a versatile Tasmota IoT WiFi switch board converter that allows 
 
 ## SWiBoard Android App
 
+|   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|
+| ![Swiboard-tasmota-mqtt-control-flutter-app-screenshot](https://github.com/user-attachments/assets/36126d5d-fa1d-401c-be72-3f37e03c67cd) | ![Swiboard-tasmota-mqtt-control-flutter-app-screenshot](https://github.com/user-attachments/assets/a638438e-6b1e-4a71-b047-c0864e127754) | ![Swiboard-tasmota-mqtt-control-flutter-app-screenshot](https://github.com/user-attachments/assets/75392fd5-66a3-4b84-a7c5-2478ff331e7a) | ![Swiboard-tasmota-mqtt-control-flutter-app-screenshot](https://github.com/user-attachments/assets/0464ea36-a3f0-4d54-b6b7-0523345c4b4b) | ![Swiboard-tasmota-mqtt-control-flutter-app-screenshot](https://github.com/user-attachments/assets/85052072-bd04-479c-95f4-5c4ade404956) |
+
+
 This repository contains the source code for the SWiBoard Android app, which allows users to control their SWiBoard devices through a mobile interface. The app is built using Flutter, making it cross-platform compatible.
 
 ### Features
