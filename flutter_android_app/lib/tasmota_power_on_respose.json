@@ -1,0 +1,298 @@
+{
+  "Info1": {
+    "Module": "hjLabs.in",
+    "Version": "12.0.2.3(tasmota)",
+    "FallbackTopic": "cmnd/DVES_4A19BB_fb/",
+    "GroupTopic": "cmnd/tasmotas/"
+  }
+},
+{
+  "Info2": {
+    "WebServerMode": "Admin",
+    "Hostname": "tasmota-4A19BB-6587",
+    "IPAddress": "192.168.248.38"
+  }
+},
+{ "Info3": { "RestartReason": "Software/System restart", "BootCount": 282 }},
+{ "POWER1": "ON" },
+{ "POWER2": "OFF" },
+{ "POWER3": "OFF" },
+{ "POWER4": "OFF" },
+{
+  "StatusPRM": {
+    "Baudrate": 115200,
+    "SerialConfig": "8N1",
+    "GroupTopic": "tasmotas",
+    "OtaUrl": "https://github.com/Jason2866/Tasmota-specials/blob/firmware/firmware/tasmota/other/tasmota-titanium.bin.gz",
+    "RestartReason": "Software/System restart",
+    "Uptime": "0T00:00:09",
+    "StartupUTC": "2022-08-30T12:42:05",
+    "Sleep": 50,
+    "CfgHolder": 4617,
+    "BootCount": 281,
+    "BCResetTime": "2022-07-11T17:05:37",
+    "SaveCount": 60985,
+    "SaveAddress": "FA000"
+  }
+},
+{
+  "Time": "2022-08-30T13:42:14",
+  "Uptime": "0T00:00:09",
+  "UptimeSec": 9,
+  "Heap": 24,
+  "SleepMode": "Dynamic",
+  "Sleep": 50,
+  "LoadAvg": 36,
+  "MqttCount": 1,
+  "POWER1": "ON",
+  "POWER2": "OFF",
+  "POWER3": "OFF",
+  "POWER4": "OFF",
+  "Wifi": {
+    "AP": 1,
+    "SSId": "POCO",
+    "BSSId": "0E:76:1E:2E:99:AF",
+    "Channel": 5,
+    "Mode": "11n",
+    "RSSI": 48,
+    "Signal": -76,
+    "LinkCount": 1,
+    "Downtime": "0T00:00:05"
+  }
+},
+{
+  "StatusSTS": {
+    "Time": "2022-08-30T13:42:14",
+    "Uptime": "0T00:00:09",
+    "UptimeSec": 9,
+    "Heap": 24,
+    "SleepMode": "Dynamic",
+    "Sleep": 50,
+    "LoadAvg": 38,
+    "MqttCount": 1,
+    "POWER1": "ON",
+    "POWER2": "OFF",
+    "POWER3": "OFF",
+    "POWER4": "OFF",
+    "Wifi": {
+      "AP": 1,
+      "SSId": "POCO",
+      "BSSId": "0E:76:1E:2E:99:AF",
+      "Channel": 5,
+      "Mode": "11n",
+      "RSSI": 48,
+      "Signal": -76,
+      "LinkCount": 1,
+      "Downtime": "0T00:00:05"
+    }
+  }
+},
+{
+  "StatusPRM": {
+    "Baudrate": 115200,
+    "SerialConfig": "8N1",
+    "GroupTopic": "tasmotas",
+    "OtaUrl": "https://github.com/Jason2866/Tasmota-specials/blob/firmware/firmware/tasmota/other/tasmota-titanium.bin.gz",
+    "RestartReason": "Software/System restart",
+    "Uptime": "0T00:00:09",
+    "StartupUTC": "2022-08-30T12:42:05",
+    "Sleep": 50,
+    "CfgHolder": 4617,
+    "BootCount": 281,
+    "BCResetTime": "2022-07-11T17:05:37",
+    "SaveCount": 60985,
+    "SaveAddress": "FA000"
+  }
+},
+{
+  "Time": "2022-08-30T13:42:14",
+  "Uptime": "0T00:00:09",
+  "UptimeSec": 9,
+  "Heap": 23,
+  "SleepMode": "Dynamic",
+  "Sleep": 50,
+  "LoadAvg": 42,
+  "MqttCount": 1,
+  "POWER1": "ON",
+  "POWER2": "OFF",
+  "POWER3": "OFF",
+  "POWER4": "OFF",
+  "Wifi": {
+    "AP": 1,
+    "SSId": "POCO",
+    "BSSId": "0E:76:1E:2E:99:AF",
+    "Channel": 5,
+    "Mode": "11n",
+    "RSSI": 48,
+    "Signal": -76,
+    "LinkCount": 1,
+    "Downtime": "0T00:00:05"
+  }
+},
+{
+  "StatusSTS": {
+    "Time": "2022-08-30T13:42:14",
+    "Uptime": "0T00:00:09",
+    "UptimeSec": 9,
+    "Heap": 24,
+    "SleepMode": "Dynamic",
+    "Sleep": 50,
+    "LoadAvg": 43,
+    "MqttCount": 1,
+    "POWER1": "ON",
+    "POWER2": "OFF",
+    "POWER3": "OFF",
+    "POWER4": "OFF",
+    "Wifi": {
+      "AP": 1,
+      "SSId": "POCO",
+      "BSSId": "0E:76:1E:2E:99:AF",
+      "Channel": 5,
+      "Mode": "11n",
+      "RSSI": 48,
+      "Signal": -76,
+      "LinkCount": 1,
+      "Downtime": "0T00:00:05"
+    }
+  }
+},
+{
+  "StatusPRM": {
+    "Baudrate": 115200,
+    "SerialConfig": "8N1",
+    "GroupTopic": "tasmotas",
+    "OtaUrl": "https://github.com/Jason2866/Tasmota-specials/blob/firmware/firmware/tasmota/other/tasmota-titanium.bin.gz",
+    "RestartReason": "Software/System restart",
+    "Uptime": "0T00:00:09",
+    "StartupUTC": "2022-08-30T12:42:05",
+    "Sleep": 50,
+    "CfgHolder": 4617,
+    "BootCount": 281,
+    "BCResetTime": "2022-07-11T17:05:37",
+    "SaveCount": 60985,
+    "SaveAddress": "FA000"
+  }
+},
+{
+  "StatusSTS": {
+    "Time": "2022-08-30T13:42:16",
+    "Uptime": "0T00:00:11",
+    "UptimeSec": 11,
+    "Heap": 25,
+    "SleepMode": "Dynamic",
+    "Sleep": 50,
+    "LoadAvg": 40,
+    "MqttCount": 1,
+    "POWER1": "ON",
+    "POWER2": "OFF",
+    "POWER3": "OFF",
+    "POWER4": "OFF",
+    "Wifi": {
+      "AP": 1,
+      "SSId": "POCO",
+      "BSSId": "0E:76:1E:2E:99:AF",
+      "Channel": 5,
+      "Mode": "11n",
+      "RSSI": 50,
+      "Signal": -75,
+      "LinkCount": 1,
+      "Downtime": "0T00:00:05"
+    }
+  }
+},
+{
+  "Time": "2022-08-30T13:42:16",
+  "Uptime": "0T00:00:11",
+  "UptimeSec": 11,
+  "Heap": 23,
+  "SleepMode": "Dynamic",
+  "Sleep": 50,
+  "LoadAvg": 40,
+  "MqttCount": 1,
+  "POWER1": "ON",
+  "POWER2": "OFF",
+  "POWER3": "OFF",
+  "POWER4": "OFF",
+  "Wifi": {
+    "AP": 1,
+    "SSId": "POCO",
+    "BSSId": "0E:76:1E:2E:99:AF",
+    "Channel": 5,
+    "Mode": "11n",
+    "RSSI": 50,
+    "Signal": -75,
+    "LinkCount": 1,
+    "Downtime": "0T00:00:05"
+  }
+},
+{
+  "Time": "2022-08-30T13:42:16",
+  "Switch1": "ON",
+  "Switch2": "ON",
+  "Switch3": "ON",
+  "Switch4": "ON"
+},
+{
+  "Time": "2022-08-30T13:42:18",
+  "Uptime": "0T00:00:13",
+  "UptimeSec": 13,
+  "Heap": 25,
+  "SleepMode": "Dynamic",
+  "Sleep": 50,
+  "LoadAvg": 19,
+  "MqttCount": 1,
+  "POWER1": "ON",
+  "POWER2": "OFF",
+  "POWER3": "OFF",
+  "POWER4": "OFF",
+  "Wifi": {
+    "AP": 1,
+    "SSId": "POCO",
+    "BSSId": "0E:76:1E:2E:99:AF",
+    "Channel": 5,
+    "Mode": "11n",
+    "RSSI": 48,
+    "Signal": -76,
+    "LinkCount": 1,
+    "Downtime": "0T00:00:05"
+  }
+})
+
+
+{
+  "Status": {
+    "Module": 0,
+    "DeviceName": "BackRoom",
+    "FriendlyName": [
+      "Tasmota_BackRoom",
+      "Tasmota2_BackRoom",
+      "Tasmota3_BackRoom",
+      "Tasmota4_BackRoom"
+    ],
+    "Topic": "tasmota_4A19BB",
+    "ButtonTopic": "0",
+    "Power": 8,
+    "PowerOnState": 0,
+    "LedState": 1,
+    "LedMask": "FFFF",
+    "SaveData": 0,
+    "SaveState": 0,
+    "SwitchTopic": "0",
+    "SwitchMode": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ButtonRetain": 0,
+    "SwitchRetain": 0,
+    "SensorRetain": 0,
+    "PowerRetain": 0,
+    "InfoRetain": 0,
+    "StateRetain": 0
+  }
+}

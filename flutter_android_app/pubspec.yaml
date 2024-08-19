@@ -1,0 +1,79 @@
+name: swiboard
+description: Your Own WiFi Switch Board
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.2.7+16
+
+environment:
+  sdk: '>=2.18.0-271.4.beta <3.0.0'
+  flutter: ">=2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons:
+  firebase_core:
+  google_sign_in:
+  http:
+  firebase_auth:
+  toast:
+  cloud_firestore: 
+  uuid:
+  mqtt5_client: 
+  flutter_riverpod: 
+  objectbox: 
+  objectbox_flutter_libs: 
+  url_launcher: 
+  google_fonts:
+  admob_flutter: 
+  streaming_shared_preferences: 
+  shimmer:
+  easy_sidemenu: 
+  iconsax:
+  flutter_inappwebview:
+  webview_flutter:
+  flutter_iconpicker:
+  firebase_app_check:
+  flutter_glow:
+  html:
+  flutter_html:
+  flutter_markdown:
+  enum_to_string: 
+  wiredash: 
+  share_plus:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: 
+  objectbox_generator:
+  flutter_lints:
+  flutter_launcher_icons: 
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+  min_sdk_android: 27
+  web:
+    generate: true
+    image_path: "assets/ic_launcher.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "assets/ic_launcher.png"
+    icon_size: 48 # min:48, max:256, default: 48
+        
+flutter:
+  uses-material-design: true
+
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic

@@ -1,0 +1,34 @@
+=========== Banner ad unit ===============
+Next, place the ad unit inside your app
+Follow these instructions:
+Complete the instructions in the Google Mobile Ads SDK guide using this app ID:
+SWiBoardca-app-pub-6629427341331582~2655474267
+Follow the banner implementation guide to integrate the SDK. You'll specify ad type, size and placement when you integrate the code using this ad unit ID:
+swiboard_banner_ad : ca-app-pub-6629427341331582/4449285124
+Review the AdMob policies to ensure that your implementation complies.
+============================================
+
+=========== Rewarded ad unit ==================
+Next, place the ad unit inside your app
+Follow these instructions:
+Complete the instructions in the Google Mobile Ads SDK guide using this app ID:
+SWiBoardca-app-pub-6629427341331582~2655474267
+Follow the rewarded implementation guide to integrate the SDK. You'll specify ad type and placement when you integrate the code using this ad unit ID:
+swiboard_rewarded_ad : ca-app-pub-6629427341331582/6117590011
+Review the AdMob policies to ensure that your implementation complies.
+=================================================
+
+=============== Interstitial ad unit =======================
+Next, place the ad unit inside your app
+Follow these instructions:
+
+    Complete the instructions in the Google Mobile Ads SDK guide using this app ID:
+    SWiBoardca-app-pub-6629427341331582~2655474267
+
+Follow the interstitial implementation guide to integrate the SDK. You'll specify ad type and placement when you integrate the code using this ad unit ID:
+swiboard_Interstitial : ca-app-pub-6629427341331582/1881464556
+Review the AdMob policies to ensure that your implementation complies.
+=================================================================
+
+this is one file "deviceSettingsPage.dart" from my Flutter project "SWiBoard", given as below : 
+
